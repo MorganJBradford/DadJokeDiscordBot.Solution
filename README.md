@@ -124,10 +124,10 @@ Otherwise, skip to the [Add OUR Bot](#%EF%B8%8F-add-our-bot) section to get star
 
   #### Cloning
 
-  1) Navigate to the [Discord bot repository here](https://github.com/Pingel88/DadJokeDiscordBot.Solution).
+  1) Navigate to the [Discord bot repository here](https://github.com/MorganJBradford/DadJokeDiscordBot.Solution).
   2) Click 'Code' to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
   3) Open up your system Terminal or GitBash, navigate to your desktop with the command: `cd Desktop`, or whichever location suits you best.
-  4) Clone the repository to your desktop: `$ git clone https://github.com/Pingel88/DadJokeDiscordBot.Solution.git`
+  4) Clone the repository to your desktop: `$ git clone https://github.com/MorganJBradford/DadJokeDiscordBot.Solution.git`
   5) Run the command `cd DadJokeDiscordBot.Solution` to enter into the project directory.
   6) View or edit:
       * Code editor - Run the command `atom .` or `code .` to open the project in Atom or Visual Studio Code respectively for review and editing.
@@ -135,7 +135,7 @@ Otherwise, skip to the [Add OUR Bot](#%EF%B8%8F-add-our-bot) section to get star
 
   #### Download
 
-  1) Navigate to the [Discord bot repository here](https://github.com/Pingel88/DadJokeDiscordBot.Solution).
+  1) Navigate to the [Discord bot repository here](https://github.com/MorganJBradford/DadJokeDiscordBot.Solution).
   2) Click 'Code' to reveal the HTTPS url ending with .git and the 'Download ZIP' option.
   3) Click 'Download ZIP' and extract.
   4) Open by double clicking on any of the files to open in a text editor.
